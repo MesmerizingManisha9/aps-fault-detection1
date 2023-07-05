@@ -106,3 +106,11 @@ git status  # to check modified files
 git commit -m "this is my first version of commit"
 git log # to check latest changes if any by anybody
 ```
+
+
+### step 14 - add new file 
+```bash
+git add .
+git commit -m "added a new file .gitignore"
+git push origin main
+```
