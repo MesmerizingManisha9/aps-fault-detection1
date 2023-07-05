@@ -104,4 +104,5 @@ git push origin main
 git add .  # to add commit in git
 git status  # to check modified files 
 git commit -m "this is my first version of commit"
+git log # to check latest changes if any by anybody
 ```
