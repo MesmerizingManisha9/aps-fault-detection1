@@ -1,3 +1,20 @@
 pymongo
 pandas
+  # represent current directoru e means editable means can edit and modify
+       # . means current dir use to trigger requirement file install lib
 
+-e .
+
+# DATA INGESTION --- In hight level ML project FOR TRAINING PIPELINE Data ingestion is bringing data from data source and split datas et in 2 or 3 parts data validation , data training and data testing
+
+# DATA VALIDATION --- Where you validate your data , u check datatype or ur datset , columns, unwanted values , to check constraints are matching or not to check missing value or correct data
+
+# DATA TRANSFORMATION --- EDA , standard scalling , to transfer data for we can train data
+
+# MODEL TRAINER --- finalize to 
+
+# MODEL EVALUATION --- analysis whether the model is working good or not, compare production model with train model
+
+# MODEL PUSHER --- 
+
+#

@@ -113,7 +113,7 @@ git log # to check latest changes if any by anybody
 git add .
 git commit -m "added a new file .gitignore"
 git push origin main
+
 ```
 
-
-file is edited by manisha in github file 
+This is chnages made in neuro lab
