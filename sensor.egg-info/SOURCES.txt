@@ -19,5 +19,6 @@ sensor/entity/config_entity.py
 sensor/pipeline/__init__.py
 sensor/pipeline/training_pipeline.py
 sensor/utils/__init__.py
+sensor/utils/config.py
 sensor/utils/exception.py
 sensor/utils/logger.py
